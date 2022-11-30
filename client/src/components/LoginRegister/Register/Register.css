@@ -1,0 +1,6 @@
+.register {
+  display: flex;
+  height: 81vh;
+  align-items: center;
+  gap: 40px;
+}
